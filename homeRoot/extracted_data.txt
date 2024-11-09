@@ -1,0 +1,20 @@
+Patient ID:
+1247
+
+Patient Name:
+heMaNG
+
+Doctor ID:
+451
+
+Doctor Name:
+DeVkaeen
+
+Prescription:
+PAracetAMoL
+TiNNITUs
+
+Observations:
+HEADAcHE
+MALAISE
+
